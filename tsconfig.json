@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "harmony",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true
+    }
+}
